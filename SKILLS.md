@@ -1,6 +1,6 @@
 # Personal profile of software engineering skills
 
-⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned, 🟥 Declined
+⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned, 🟥 Declined / not learned
 
 ## Fundamental concepts
 
@@ -15,16 +15,16 @@
 | 🟦 expression        | 🟦 do..while          | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
 | 🟦 heap              | 🟦 for                | 🟦 lambda             | 🟦 stack            | 🟦 complexity        |
 | 🟦 type              | 🟨 for..in            | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
-| 🟦 primitive types   | 🟨 for..of            | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
-| 🟦 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
-| 🟦 flag              | 🟦 throw              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
+| 🟦 primitive types   | 🟨 for..of            | 🟦 closure            | 🟦 serialization    | 🟥 spaghetti         |
+| 🟦 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | 🟥 silver bullet     |
+| 🟦 flag              | 🟦 throw              | ⬜️ curry              | 🟨 iterator         | 🟥 not invented here |
 | 🟦 lexical scope     | 🟦 try..catch         | 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
 | 🟦 code block        | 🟦 equality operators | 🟦 higher order       | 🟨 Map              | 🟦 unreachable code  |
 | 🟨 Object            | 🟦 logical operators  | 🟦 callback           | 🟨 Set              | 🟦 duplicate code    |
 | 🟨 this              | 🟦 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
 | 🟨 arrow function    | 🟦 break, continue    | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
 | 🟨 generator         | 🟦 switch             | ⬜ compose            | ⬜️ Symbol           | 🟦 linter            |
-| 🟨 async function    | 🟨 new Error          | ⬜️ memoize            | 🟨 string parsing   | ⬜️ prettier          |
+| 🟨 async function    | 🟨 new Error          | ⬜️ memoize            | 🟨 string parsing   | 🟦 prettier          |
 | 🟨 call, bind, apply |                       | 🟦 factory            | 🟨 timers           | 🟦 unittest          |
 | 🟨 Array             |                       | 🟦 pool               | 🟨 EventEmitter     | 🟦 git               |
 | 🟨 instanceof        |                       | 🟦 wrapper            | 🟨 RegExp           | 🟦 github            |
@@ -110,13 +110,3 @@
 | 🟦 child_process     | 🟦 Shared memory             |                   |                  |                      |
 | 🟦 worker_threads    |                              |                   |                  |                      |
 
-## Other skills
-
-- ⬜ Cybersecurity
-- ⬜ TDD
-- ⬜ Quality
-- ⬜ Mobile applications
-- ⬜ High-performance computing
-- ⬜ Edge computing
-- ⬜ Data warehouse
-- ⬜ Low-code and no-code platforms
