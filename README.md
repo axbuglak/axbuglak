@@ -1,6 +1,6 @@
 <code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Back-end / Front-end </code><br>
+<code>👷 Speciality: Software engineer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧑‍💻 Main languages: JavaScript, TypeScript</code>
-<code>📦 Tech stack: node.js / react / vue</code>
+<code>🧑‍💻 Main languages: JavaScript, Python, Java</code>
+<code>📦 Tech stack: node.js</code>
 <code>📫 [My email](mailto:alexeybuglak24@gmail.com)</code>
